@@ -1,5 +1,5 @@
 import pytest
-from .human import Human
+from human import Human
 
 
 @pytest.fixture

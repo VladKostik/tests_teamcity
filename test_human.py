@@ -1,5 +1,5 @@
 import pytest
-from .human import Human
+from human import Human
 
 
 def test_grow_method(human_1):
