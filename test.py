@@ -1,1 +1,1 @@
-print('TEST COMPLETED')
+import pytest
